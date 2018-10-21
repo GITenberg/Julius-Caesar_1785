@@ -1,5 +1,5 @@
 _repo: Julius-Caesar_1785
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -33,5 +33,6 @@ subjects:
 - !lcsh 'Brutus, Marcus Junius, 85 B.C.?-42 B.C. -- Drama'
 - !lcsh 'Assassins -- Drama'
 - !lcsh 'Rome -- History -- Civil War, 43-31 B.C. -- Drama'
+- GITenberg
 title: Julius Caesar
 url: http://www.gutenberg.org/ebooks/1785
